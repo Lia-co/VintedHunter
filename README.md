@@ -1,0 +1,32 @@
+*This project is created by Shiyuan Liang*
+
+upload demo video for showing VintedHunter app.
+
+# Description
+This is my first app development project. By following the Apple Development Swift Tutorial, I build up this VintedHunter app with basic text entry and photo picker to select a photo from device. This app is designed for a vintage store goer who wants to track the treasure is found in which store.
+
+## Building process
+During the process of building this app, I learn:</br>
+* create a new project, with basic assets like pictures and colors. Organized it with a lear folder structre.</br>
+* design view structure, navigation and write entries.</br>
+* add photo picker: place holder view, photos UI and how to load photos in app.</br>
+* create data container: considering data model and previews.</br>
+* add save and cancel features: the basic concepts of toolbar and daa validations.</br>
+
+## Prerequisites
+Xcode 27.2 (at the time of writing)</br>
+Device Hub 27.2 (at the time of writing)</br>
+macOS Tahoe 26.6.2 (at the time of writing)</br>
+
+## Future improvements
+I would like to add a welcome page, an archive list overview and location adding function for this app in the future.</br>
+
+# Instruction
+For running the simulation and seeing the demo in Device Hub, you can use below command lines:</br>
+open a new terminal window, download peoject files:</br>
+```git clone git@github.com:Lia-co/VintedHunter.git```</br>
+Then open(double click) ```VintedHunter.xcodeproj``` with Xcode, then use hot keys```command + r```to run the project. The simulation will run in your Device Hub and you can see how does the app work! Have fun!</br>
+
+# Resources
+(Develop in Swift Tutorials)[https://developer.apple.com/tutorials/develop-in-swift/]</br>
+(Video: Code-along: Start building with Swift and SwiftUI)[https://developer.apple.com/videos/play/meet-with-apple/237/]</br>
