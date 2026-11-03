@@ -1,6 +1,7 @@
 *This project is created by Shiyuan Liang*
 
-upload demo video for showing VintedHunter app.
+<img width="230" height="500" alt="demo_vintedhunter" src="https://github.com/user-attachments/assets/88b6024f-7e0e-4c8a-bfb1-258f5dd98a8b" />
+
 
 # Description
 This is my first app development project. By following the Apple Development Swift Tutorial, I build up this VintedHunter app with basic text entry and photo picker to select a photo from device. This app is designed for a vintage store goer who wants to track the treasure is found in which store.
