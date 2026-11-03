@@ -24,9 +24,17 @@ I would like to add a welcome page, an archive list overview and location adding
 
 # Instruction
 For running the simulation and seeing the demo in Device Hub, you can use below command lines:</br>
+</br>
 open a new terminal window, download peoject files:</br>
 ```git clone git@github.com:Lia-co/VintedHunter.git```</br>
-Then open(double click) ```VintedHunter.xcodeproj``` with Xcode, then use hot keys```command + r```to run the project. The simulation will run in your Device Hub and you can see how does the app work! Have fun!</br>
+</br>
+Then open(double click)</br>
+```VintedHunter.xcodeproj``` with ```Xcode``` </br>
+</br>
+then use hot keys```command + r```to run the project.</br>
+The simulation will run in your ```Device Hub``` and you can see how does the app work!</br>
+</br>
+Have fun!</br>
 
 # Resources
 (Develop in Swift Tutorials)[https://developer.apple.com/tutorials/develop-in-swift/]</br>
